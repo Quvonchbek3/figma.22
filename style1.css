@@ -1,0 +1,247 @@
+ .section1{
+    display: flex;
+    width: 1450px;
+    height: 100px;
+    background-color: #F0F2F3;
+}
+.Logo h1{
+    margin-left: 170px;
+    margin-top: -30px;
+}
+.Logo img{
+    margin-top: 30px;
+    margin-left: 120px;
+}
+.search{
+    width: 413px;
+height: 44px;
+background-color: #fff;
+margin-top: 30px;
+margin-left: 300px;
+}
+.search img{
+    position: relative;
+    left: 350px; 
+    top: -50px;
+}
+.search h3{
+    position: relative;
+    top: -10px;
+    left: 10px;
+}
+.Icon img{ 
+    margin-top: 30px;
+    margin-left: 200px;
+}
+.box img{
+    position: relative;
+    top: 50px;
+    left: 120px;
+}
+.Home ul{
+    display: flex;
+    margin-left: 300px;
+    list-style: none;
+}
+.Home ul li{
+    margin-left: 40px;
+}
+.Home p{
+    margin-left: 1200px;
+    margin-top: -30px;
+}
+.sign{
+    width: 1400px;
+    height: 150px;
+    background-color: rgb(161, 153, 153);
+    margin-left: 50px;
+}
+
+.sign ul{
+    list-style: none;
+    display: flex;
+    margin-left: 150px;
+}
+.sign li{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.sign h1{
+    margin-left: 230px;
+}
+.section4{
+    width: 648px;
+height: 382px;
+background-color: white;
+box-shadow: 0px 0px 30px 0px rgba(39, 35, 67, 0.12);
+margin-left: 400px;
+margin-top: 100px;
+border-radius: 12px;
+font-size: 32px;
+text-align: center;
+}
+
+.email{
+    width: 584px;
+height: 50px;
+background-color: #F0F2F3;
+margin-left: 32px;
+margin-top: 30px;
+border-radius: 10px;
+}
+.email h1{
+    position: relative;
+    top: 15px;
+    font-size: 16px;
+    margin-left: -470px;
+    color: #9A9CAA;
+
+}
+.email1{
+    width: 584px;
+height: 50px;
+background-color: #F0F2F3;
+margin-left: 32px;
+margin-top: 30px;
+border-radius: 10px;
+}
+.email1 p{
+    position: relative;
+    top: 15px;
+    font-size: 16px;
+    margin-left: -460px;
+    color: #9A9CAA;
+}
+.email1 img{
+    margin-left: 470px;
+    position: relative;
+    top: -25px;
+    width: 24px;
+    height: 24px;
+}
+.circle{
+    width: 20px;
+height: 20px;
+border: 5px solid grey;
+border-radius: 10px;
+margin-left: 32px;
+margin-top: 20px;
+}
+.circle h3{
+    font-size: 14px;
+    position: relative;
+    top: -10px;
+    width: 200px;
+} 
+.circle p{
+font-size: 14px;
+color: #007580;
+width: 200px;
+position: relative;
+margin-left: 440px;
+top: -35px;
+}
+.Sign1{
+    width: 584px;
+    height: 50px;
+    background-color: #007580;
+    margin-left: 32px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.Sign1 h1{
+    font-size: 16px;
+    position: relative;
+    top: 17px;
+    color: white;
+}
+.text p{
+    font-size: 16px;
+    margin-left: -50px;
+}
+.text h6{
+    position: relative;
+    color: #007580;
+    top: -55px;
+    margin-left: 150px;
+    font-size: 16px;
+}
+.footer img{
+    margin-left: 150px;
+    margin-top: 150px;
+}
+.footer h1{
+    margin-left: 200px;
+    margin-top: -35px;
+}
+.footer p{
+    width: 260px;
+    margin-left: 150px;
+    color: #9A9CAA;
+    margin-top: 30px;
+}
+.instagram img{ 
+    position: relative;
+    left: 150px;
+    top: 30px;
+}
+.Categories{
+    margin-left: 500px;
+    margin-top: -190px;
+}
+.Categories h2{
+    color: #9A9CAA;
+}
+
+.Categories p{
+    font-size: 18px;
+}
+.support{
+    margin-left: 800px;
+    margin-top: -290px;
+}
+.support h2{
+    color: #9A9CAA;
+}
+.new h2{
+    margin-left: 1000px;
+    margin-top: -190px;
+}
+.new h2{
+    color: #9A9CAA;
+}
+.your{
+    width: 285px;
+height: 46px;
+background-color: white;
+border: 2px solid #9A9CAA;
+margin-left: 1000px;
+border-radius: 10px;
+}
+.your p{
+    color: #9A9CAA;
+    margin-left: 10px;
+}
+.your h5{
+    color: #9A9CAA;
+}
+button{
+    width: 127px;
+    height: 46px;
+    background-color: #007580;
+    border-radius: 10px;
+    border: 5px solid #007580;
+    position: relative;
+    margin-left: 1300px;
+    top: -48px;
+}
+.foter{
+    display: flex;
+width: 840px;
+padding: 24px 300px;
+justify-content: space-between;
+align-items: center;
+background: var(--gray-scales-white, #F1F1F1);
+box-shadow: 0px 1px 0px 0px #E1E3E5 inset;
+margin-top: 160px;
+}
